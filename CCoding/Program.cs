@@ -2,6 +2,8 @@
 {
     internal class Program
     {
+        static Assignment ass = new Assignment();
+
         static void Main(string[] args)
         {
             // 곱하기 연산자
@@ -58,6 +60,8 @@
             Console.WriteLine("2월은" + day + "입니다."); // 암시적 변환 : 숫자형식 -> 문자열
             Console.WriteLine("2월은" + day.ToString() + "입니다."); // 명시적 변환 : 숫자형식 -> 문자열
             Console.WriteLine("2월은" + Convert.ToString(day) + "입니다."); // 명시적 변환 : 숫자형식 -> 문자열
+
+            ass.Assign();
         }
     }
 }

@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\CCoding\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{788FE4AA-FD0E-481B-95E5-1D1D8C352855}|CCoding\\CCoding.csproj|c:\\users\\chralielee\\source\\repos\\csharp\\ccoding\\ccoding\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{788FE4AA-FD0E-481B-95E5-1D1D8C352855}|CCoding\\CCoding.csproj|solutionrelative:ccoding\\assignment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{788FE4AA-FD0E-481B-95E5-1D1D8C352855}|CCoding\\CCoding.csproj|c:\\users\\chralielee\\source\\repos\\csharp\\ccoding\\ccoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{788FE4AA-FD0E-481B-95E5-1D1D8C352855}|CCoding\\CCoding.csproj|solutionrelative:ccoding\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -27,12 +31,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Assignment.cs",
+              "DocumentMoniker": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\CCoding\\CCoding\\Assignment.cs",
+              "RelativeDocumentMoniker": "CCoding\\Assignment.cs",
+              "ToolTip": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\CCoding\\CCoding\\Assignment.cs",
+              "RelativeToolTip": "CCoding\\Assignment.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCMAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-18T15:54:17.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\CCoding\\CCoding\\Program.cs",
               "RelativeDocumentMoniker": "CCoding\\Program.cs",
               "ToolTip": "C:\\Users\\ChralieLee\\source\\repos\\csharp\\CCoding\\CCoding\\Program.cs",
               "RelativeToolTip": "CCoding\\Program.cs",
-              "ViewState": "AgIAACIAAAAAAAAAAAAqwDsAAABeAAAAAAAAAA==",
+              "ViewState": "AgIAADEAAAAAAAAAAAAQwD8AAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-18T15:09:05.746Z",
               "EditorCaption": ""

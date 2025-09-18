@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CCoding")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ebe294b06e9c59dae46eff54fda4749db8bde4d3")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bb31d85fe1707b69b8f89ea1857e3d3fac4aab1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CCoding")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CCoding")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
