@@ -1,0 +1,15 @@
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\bin\Debug\net8.0\CCoding.exe
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\bin\Debug\net8.0\CCoding.deps.json
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\bin\Debug\net8.0\CCoding.runtimeconfig.json
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\bin\Debug\net8.0\CCoding.dll
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\bin\Debug\net8.0\CCoding.pdb
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.AssemblyInfoInputs.cache
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.AssemblyInfo.cs
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.csproj.CoreCompileInputs.cache
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.sourcelink.json
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.dll
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\refint\CCoding.dll
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.pdb
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\CCoding.genruntimeconfig.cache
+C:\Users\ChralieLee\source\repos\csharp\CCoding\CCoding\obj\Debug\net8.0\ref\CCoding.dll
